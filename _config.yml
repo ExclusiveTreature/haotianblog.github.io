@@ -3,8 +3,9 @@ title: Blog
 SEOTitle: 昊天的博客 | Blog
 header-img: img/post-bg-desk.jpg
 email: 2313825399@qq.com
+github_username: "haotianblog"
 description: "Every failure is leading towards success."
-keyword: "Blog, 昊天的博客, h, 昊天, iOS, Apple, iPhone"
+keyword: "Blog, 昊天的博客, h, 昊天"
 url: "http://haotianblog.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/haotianblog/haotianblog.github.io.git" # you code repository
@@ -61,7 +62,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 
 # Featured Tags
