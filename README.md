@@ -133,7 +133,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 	jianshu_username: 	jianshu_id 
 	zhihu_username:     username
 	facebook_username:  username
-	github_username:    username
+	github_username:    haotianblog
 	# weibo_username:   username
 	
 	
